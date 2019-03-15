@@ -3,7 +3,8 @@ import sys
 import pygame
 
 from pygame.locals import *
-
+FPS = 20
+WINDOWWIDTH = 640
 WINDOWHEIGHT = 480
 REVEALSPEED = 8
 BOXSIZE = 40
